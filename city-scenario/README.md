@@ -11,5 +11,7 @@ The resulting table has only two entries: Dublin and Toronto. Though they are ex
 
 ## Files
 world_cities.csv - structured city data
+
 query.sql - query written as described above
+
 candidate_cities.csv - table returned by query
