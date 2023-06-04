@@ -5,4 +5,4 @@ Collection of all my data analytics projects
 Skills: SQL, BigQuery, Google Cloud Platform
 
 ## Data Cleaning: Preparing neat, structured data from students dataset
-Skills: Data cleaning, Sheets/Excel 
+Skills: Data cleaning, Sheets/Excel, SQL, BigQuery, Google Cloud Platform
