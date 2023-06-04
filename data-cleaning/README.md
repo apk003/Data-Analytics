@@ -3,7 +3,7 @@ This project is part of the Google Data Analytics Certificate program. Scenarios
 
 Scenario 1 is a quick data cleaning task in a spreadsheet, though writing a quick Spark script would work just as well.
 
-Scenario 2 is a slightly more in-depth data cleaning task using industry best practices.
+Scenario 2 is a different approach, where cleaning is done entirely through SQL queries with advanced functions.
 
 
 ## Scenario 1
