@@ -1,4 +1,5 @@
-## This project is part of the Google Data Analytics Certificate program.
+## Overview
+This project is part of the Google Data Analytics Certificate program.
 
 It is a simple introduction to SQL fully within the Google Cloud Platform, additionally building skills with virtual machines and BigQuery.
 
