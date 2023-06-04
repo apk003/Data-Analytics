@@ -1,0 +1,28 @@
+city_name,avg_temp,avg_commute,happiness_ranking
+Boston,62,55,27
+Buenos Aires,70,60,7
+Sydney,72,69,6
+Tokyo,60,70,26
+Los Angeles,70,100,20
+San Francisco,65,80,21
+Beijing,64,50,22
+Zurich,65,45,23
+Shanghai,70,80,3
+Dubai,80,55,24
+London,59,45,25
+Dublin,60,45,8
+New Delhi,80,60,4
+Perth,68,38,19
+Chicago,58,55,18
+Seattle,60,48,17
+Toronto,60,50,2
+Mexico City,70,30,16
+Berlin,68,40,13
+Cape Town,72,48,14
+Lagos,80,38,5
+Panama City,80,40,15
+Singapore,75,40,12
+Jakata,78,35,10
+Seoul,60,90,9
+Phoenix,70,45,11
+Amsterdam,67,20,1
