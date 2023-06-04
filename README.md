@@ -4,5 +4,5 @@ Collection of all my data analytics projects
 ## City Scenario: Realistic exploration of city data
 Skills: SQL, BigQuery, Google Cloud Platform
 
-## Data Cleaning: Preparing neat, structured data from students dataset
+## Data Cleaning: Comparison between spreadsheets and SQL
 Skills: Data cleaning, Sheets/Excel, SQL, BigQuery, Google Cloud Platform
