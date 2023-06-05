@@ -14,4 +14,4 @@ Skills: Data cleaning, Sheets/Excel, SQL, BigQuery, Google Cloud Platform
 ## SQL Joins: Data aggregation using JOIN
 Fictional scenario requiring data aggregation and staging
 
-Skills: Data aggregation, SQL, BigQuery, Google Cloud Platform
+Skills: Data aggregation, SQL, BigQuery, Connected Sheets, Google Cloud Platform
