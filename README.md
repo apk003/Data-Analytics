@@ -6,3 +6,6 @@ Skills: SQL, BigQuery, Google Cloud Platform
 
 ## Data Cleaning: Comparison between spreadsheets and SQL
 Skills: Data cleaning, Sheets/Excel, SQL, BigQuery, Google Cloud Platform
+
+## SQL Joins: Data aggregation using JOIN
+Skills: Data aggregation, SQL, BigQuery, Google Cloud Platform
