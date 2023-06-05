@@ -1,5 +1,5 @@
 # Data-Analytics
-Collection of all my data analytics projects. Many small assignments are omitted.
+Collection of all my data analytics projects, mostly through the Google Data Analytics Professional Certificate. Many small assignments are omitted.
 
 ## City Scenario: Realistic exploration of city data
 Simple introduction to SQL with a SELECT FROM WHERE query
