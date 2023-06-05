@@ -12,6 +12,6 @@ Two fictional scenarios where data needs to be cleaned
 Skills: Data cleaning, Sheets/Excel, SQL, BigQuery, Google Cloud Platform
 
 ## SQL Joins: Data aggregation using JOIN
-Fictional scenario requiring data aggregation before continuing with analysis
+Fictional scenario requiring data aggregation and staging
 
 Skills: Data aggregation, SQL, BigQuery, Google Cloud Platform
